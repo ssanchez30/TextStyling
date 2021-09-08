@@ -1,0 +1,33 @@
+*{
+    margin: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+h1{
+    background-color:#000000;
+    color: white;
+    padding: 8px;
+    font-weight: bold;
+}
+
+h2{
+    background-color: #663399;
+    text-align: center;
+    padding: 8px;
+    color: white;
+    font-style: italic;
+}
+
+h3{
+    background-color: #9fc5f8;
+    text-decoration: underline;
+    color: #251954;
+    text-align: right;
+    padding: 8px;
+}
+
+.cloud{
+
+    color: #00ffff;
+    margin: 0;
+}
